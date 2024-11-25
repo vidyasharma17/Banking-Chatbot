@@ -22,6 +22,6 @@ The **Banking Chatbot** is an AI-powered chatbot designed to handle a variety of
 | **ATM Support**          | Which ATMs can I use my card with? <br> Are there fees for ATM withdrawals? |
 | **Automatic Top-Up**     | How can I set up automatic top-up for my account? <br> Does your app allow automatic balance top-ups? |
 
-For more sample questions, check the chatbot's description in the Gradio UI.
+For more sample questions, check the chatbot's description in the Gradio UI: https://huggingface.co/spaces/vidyasharma17/banking-chatbot
 
 ---

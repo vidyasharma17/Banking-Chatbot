@@ -24,4 +24,9 @@ The **Banking Chatbot** is an AI-powered chatbot designed to handle a variety of
 
 For more sample questions, check the chatbot's description in the Gradio UI: https://huggingface.co/spaces/vidyasharma17/banking-chatbot
 
----
+## Copyright
+**Copyright (c) 2024 Vidya Sharma. All rights reserved.**
+
+Permission is granted to use this software solely for personal, non-commercial purposes. Redistribution, modification, or commercial use of this software in whole or in part is strictly prohibited without prior written consent from the copyright holder.
+
+
